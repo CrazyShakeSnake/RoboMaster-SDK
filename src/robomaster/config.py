@@ -22,7 +22,7 @@ DEFAULT_CONN_TYPE = "ap"
 # 指定本机IP地址 示例：LOCAL_IP_STR = "192.168.2.100"
 LOCAL_IP_STR = None
 # 指定产品IP地址 示例：ROBOT_IP_STR = "192.168.2.120"
-ROBOT_IP_STR = None
+ROBOT_IP_STR = "192.168.43.32"
 # 设置连接方式 "tcp" or "udp" 示例：DEFAULT_PROTO_TYPE = "tcp"
 DEFAULT_PROTO_TYPE = "udp"
 
