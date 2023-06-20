@@ -17,7 +17,7 @@
 __all__ = ['LOCAL_IP_STR', 'ROBOT_IP_STR', 'DEFAULT_PROTO_TYPE']
 
 
-DEFAULT_CONN_TYPE = "ap"
+DEFAULT_CONN_TYPE = "sta"
 
 # 指定本机IP地址 示例：LOCAL_IP_STR = "192.168.2.100"
 LOCAL_IP_STR = None
